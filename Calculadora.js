@@ -6,8 +6,3 @@ function fnKimpiarDisplay()
 {
     display.value = " ";
 }
-
-function fnPrueba()
-{
-    display.value
-}
